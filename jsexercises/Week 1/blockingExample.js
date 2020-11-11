@@ -1,0 +1,7 @@
+const fs = require('fs')
+let users = fs.readFileSync('./SampleData/users','utf8')
+console.log(users)
+console.log("Hello Node\n")
+let emails = fs.readFileSync('./SampleData/emailaddresses','utf8')
+console.log(emails)
+console.log("Hello again!")

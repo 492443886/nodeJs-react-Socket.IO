@@ -1,0 +1,468 @@
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T095915.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 29, "email":"Chunhui2@here.com"}
+
+<> 2018-02-23T095702.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 28, "email":"Chunhui2@here.com"}
+
+<> 2018-02-23T095650.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 28, "email":"Chunhui2@here.com"}
+
+<> 2018-02-23T095642.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 28, "email":"Chunhui2@here.com"}
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 28, "email":"Chunhui2@here.com"}
+
+<> 2018-02-23T095608.200.json
+
+###
+
+GET http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T095346.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 28, "email":"Chunhui@here.com"}
+
+<> 2018-02-23T095310.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T095301.200.json
+
+###
+
+GET http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094933.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 27, "email":"Chunhui4@here.com"}
+
+<> 2018-02-23T094836.200.json
+
+###
+
+POST http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 27, "email":"Chunhui4@here.com"}
+
+<> 2018-02-23T094824.404.html
+
+###
+
+GET http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094704.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094312.500.html
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094309.200.json
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094307.200.json
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094305.200.json
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094304.200.json
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094300.200.json
+
+###
+
+GET http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T094216.200.json
+
+###
+
+POST http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 27, "email":"Chunhui4@here.com"}
+
+<> 2018-02-23T094210.404.html
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 27, "email":"Chunhui4@here.com"}
+
+<> 2018-02-23T094009.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 27, "email":"Chunhui4@here.com"}
+
+<> 2018-02-23T093157.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+<> 2018-02-23T091612.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+<> 2018-02-23T091344.200.json
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+###
+
+POST http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+<> 2018-02-23T090853.200.html
+
+###
+
+DELETE http://localhost:5150/users/Chunhui%20Ma
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T030456.200.html
+
+###
+
+DELETE http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T030443.404.html
+
+###
+
+DELETE http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T030426.404.html
+
+###
+
+DELETE http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T030031.500.html
+
+###
+
+DELETE http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T025958.500.html
+
+###
+
+DELETE http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T025954.500.html
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 232, "email":"yn4@here.com"}
+
+<> 2018-02-23T025531.200.html
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Chunhui Ma", "age": 22, "email":"yn4@here.com"}
+
+<> 2018-02-23T025520.200.html
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T025409.500.html
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T024904.200.html
+
+###
+
+PUT http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T024856.404.html
+
+###
+
+GET http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T024644.200.html
+
+###
+
+GET http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T024602.200.html
+
+###
+
+GET http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET http://localhost:5150/users/yourname
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T011656.200.html
+
+###
+
+GET http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T011632.200.json
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-02-23T011622.200.html
+
+###
+
+PUT http://localhost:5150/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
